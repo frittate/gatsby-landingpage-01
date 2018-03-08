@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: landing page
+title: this information is from my pc
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
